@@ -1,0 +1,11 @@
+# Comment
+print("Результат:",5 * 5)
+print("Результат:", min(3, 5, 1, 9, 0, -3))
+print("Результат:", max(3, 5, 1, 9, 0, -3))
+print("Результат:", abs(-5))
+print("Результат:", pow(5, 3))
+print("Результат:", 5 // 3)
+print("Результат:", round(5 / 3))
+print("Hello world!!!", 7, 5, ".", sep = "|", end = "!\n")
+print("Second \" line")
+input("введите свой возраст:")
